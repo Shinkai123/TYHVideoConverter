@@ -1,0 +1,2 @@
+*.a filter=lfs diff=lfs merge=lfs -text
+JMVideoConverter/Lib/FFmpeg-iOS/lib/*.a filter=lfs diff=lfs merge=lfs -text
